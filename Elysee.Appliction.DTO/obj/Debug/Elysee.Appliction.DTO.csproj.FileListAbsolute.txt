@@ -1,0 +1,4 @@
+D:\Project\Elysee\Elysee.Appliction.DTO\bin\Debug\Elysee.Appliction.DTO.dll
+D:\Project\Elysee\Elysee.Appliction.DTO\bin\Debug\Elysee.Appliction.DTO.pdb
+D:\Project\Elysee\Elysee.Appliction.DTO\obj\Debug\Elysee.Appliction.DTO.dll
+D:\Project\Elysee\Elysee.Appliction.DTO\obj\Debug\Elysee.Appliction.DTO.pdb

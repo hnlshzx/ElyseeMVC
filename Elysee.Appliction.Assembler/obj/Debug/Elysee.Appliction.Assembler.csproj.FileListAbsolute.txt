@@ -1,0 +1,4 @@
+D:\Project\Elysee\Elysee.Appliction.Assembler\bin\Debug\Elysee.Appliction.Assembler.dll
+D:\Project\Elysee\Elysee.Appliction.Assembler\bin\Debug\Elysee.Appliction.Assembler.pdb
+D:\Project\Elysee\Elysee.Appliction.Assembler\obj\Debug\Elysee.Appliction.Assembler.dll
+D:\Project\Elysee\Elysee.Appliction.Assembler\obj\Debug\Elysee.Appliction.Assembler.pdb

@@ -1,5 +1,0 @@
-D:\work\source\Elysee\Elysee\Elysee.Core\bin\Debug\Elysee.Core.dll
-D:\work\source\Elysee\Elysee\Elysee.Core\bin\Debug\Elysee.Core.pdb
-D:\work\source\Elysee\Elysee\Elysee.Core\obj\Debug\Elysee.Core.csprojResolveAssemblyReference.cache
-D:\work\source\Elysee\Elysee\Elysee.Core\obj\Debug\Elysee.Core.dll
-D:\work\source\Elysee\Elysee\Elysee.Core\obj\Debug\Elysee.Core.pdb

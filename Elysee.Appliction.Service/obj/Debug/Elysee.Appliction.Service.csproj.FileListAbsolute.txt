@@ -1,0 +1,4 @@
+D:\Project\Elysee\Elysee.Appliction.Service\bin\Debug\Elysee.Appliction.Service.dll
+D:\Project\Elysee\Elysee.Appliction.Service\bin\Debug\Elysee.Appliction.Service.pdb
+D:\Project\Elysee\Elysee.Appliction.Service\obj\Debug\Elysee.Appliction.Service.dll
+D:\Project\Elysee\Elysee.Appliction.Service\obj\Debug\Elysee.Appliction.Service.pdb

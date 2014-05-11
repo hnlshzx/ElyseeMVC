@@ -1,0 +1,4 @@
+D:\Project\Elysee\Elysee.Infrastruture.Service\bin\Debug\Elysee.Infrastruture.Service.dll
+D:\Project\Elysee\Elysee.Infrastruture.Service\bin\Debug\Elysee.Infrastruture.Service.pdb
+D:\Project\Elysee\Elysee.Infrastruture.Service\obj\Debug\Elysee.Infrastruture.Service.dll
+D:\Project\Elysee\Elysee.Infrastruture.Service\obj\Debug\Elysee.Infrastruture.Service.pdb

@@ -1,4 +1,3 @@
-D:\Project\Elysee\Elysee.Weixin\bin\Elysee.Weixin.dll.config
 D:\Project\Elysee\Elysee.Weixin\bin\Elysee.Weixin.dll
 D:\Project\Elysee\Elysee.Weixin\bin\Elysee.Weixin.pdb
 D:\Project\Elysee\Elysee.Weixin\bin\Antlr3.Runtime.dll
@@ -145,3 +144,5 @@ D:\work\source\Elysee\Elysee\Elysee.Weixin\bin\zh-Hans\Microsoft.Owin.Security.M
 D:\work\source\Elysee\Elysee\Elysee.Weixin\obj\Debug\Elysee.Weixin.csprojResolveAssemblyReference.cache
 D:\work\source\Elysee\Elysee\Elysee.Weixin\obj\Debug\Elysee.Weixin.dll
 D:\work\source\Elysee\Elysee\Elysee.Weixin\obj\Debug\Elysee.Weixin.pdb
+D:\Project\Elysee\Elysee.Weixin\obj\Debug\Elysee.Weixin.csprojResolveAssemblyReference.cache
+D:\Project\Elysee\Elysee.Weixin\bin\Elysee.Weixin.dll.config
