@@ -141,8 +141,11 @@ D:\work\source\Elysee\Elysee\Elysee.Weixin\bin\zh-Hans\Microsoft.Owin.Security.F
 D:\work\source\Elysee\Elysee\Elysee.Weixin\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
 D:\work\source\Elysee\Elysee\Elysee.Weixin\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
 D:\work\source\Elysee\Elysee\Elysee.Weixin\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
-D:\work\source\Elysee\Elysee\Elysee.Weixin\obj\Debug\Elysee.Weixin.csprojResolveAssemblyReference.cache
 D:\work\source\Elysee\Elysee\Elysee.Weixin\obj\Debug\Elysee.Weixin.dll
 D:\work\source\Elysee\Elysee\Elysee.Weixin\obj\Debug\Elysee.Weixin.pdb
+<<<<<<< HEAD
 D:\Project\Elysee\Elysee.Weixin\obj\Debug\Elysee.Weixin.csprojResolveAssemblyReference.cache
 D:\Project\Elysee\Elysee.Weixin\bin\Elysee.Weixin.dll.config
+=======
+D:\work\source\Elysee\Elysee\Elysee.Weixin\obj\Debug\Elysee.Weixin.csprojResolveAssemblyReference.cache
+>>>>>>> e13836b00d63b29860d18bd90d180bcf2d1e0bac

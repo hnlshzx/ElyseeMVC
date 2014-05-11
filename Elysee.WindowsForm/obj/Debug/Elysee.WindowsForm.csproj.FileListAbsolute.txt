@@ -13,3 +13,4 @@ D:\work\source\Elysee\Elysee\Elysee.WindowsForm\obj\Debug\Elysee.WindowsForm.Pro
 D:\work\source\Elysee\Elysee\Elysee.WindowsForm\obj\Debug\Elysee.WindowsForm.csproj.GenerateResource.Cache
 D:\work\source\Elysee\Elysee\Elysee.WindowsForm\obj\Debug\Elysee.WindowsForm.exe
 D:\work\source\Elysee\Elysee\Elysee.WindowsForm\obj\Debug\Elysee.WindowsForm.pdb
+D:\work\source\Elysee\Elysee\Elysee.WindowsForm\obj\Debug\Elysee.WindowsForm.csprojResolveAssemblyReference.cache
