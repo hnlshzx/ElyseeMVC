@@ -1,12 +1,12 @@
-﻿<xapCache source="D:\Project\Elysee\Elysee.Phone\Bin\Debug\Elysee.Phone_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/5/11 21:12:59">
-  <file source="D:\Project\Elysee\Elysee.Phone\obj\Debug\Elysee.Phone.dll" archivePath="Elysee.Phone.dll" lastWriteTime="2014/5/11 21:12:57" />
+﻿<xapCache source="D:\Project\Elysee\Elysee.Phone\Bin\Debug\Elysee.Phone_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/5/11 23:09:34">
+  <file source="D:\Project\Elysee\Elysee.Phone\obj\Debug\Elysee.Phone.dll" archivePath="Elysee.Phone.dll" lastWriteTime="2014/5/11 23:09:33" />
   <file source="D:\Project\Elysee\Elysee.Phone\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="2014/5/3 14:53:10" />
   <file source="D:\Project\Elysee\Elysee.Phone\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="2014/5/3 14:53:10" />
   <file source="D:\Project\Elysee\Elysee.Phone\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="2014/5/3 14:53:10" />
   <file source="D:\Project\Elysee\Elysee.Phone\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="2014/5/3 14:53:10" />
   <file source="D:\Project\Elysee\Elysee.Phone\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="2014/5/3 14:53:10" />
-  <file source="D:\Project\Elysee\Elysee.Phone\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/5/11 21:12:58" />
+  <file source="D:\Project\Elysee\Elysee.Phone\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/5/11 23:09:34" />
   <file source="D:\Project\Elysee\Elysee.Phone\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2014/5/3 14:53:10" />
   <file source="D:\Project\Elysee\Elysee.Phone\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2014/5/3 14:53:10" />
-  <file source="D:\Project\Elysee\Elysee.Phone\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/5/11 21:12:59" />
+  <file source="D:\Project\Elysee\Elysee.Phone\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/5/11 23:09:34" />
 </xapCache>

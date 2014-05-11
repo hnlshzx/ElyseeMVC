@@ -79,5 +79,4 @@ D:\work\source\Elysee\Elysee\Elysee.Web\bin\zh-Hans\System.Web.WebPages.Deployme
 D:\work\source\Elysee\Elysee\Elysee.Web\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 D:\work\source\Elysee\Elysee\Elysee.Web\obj\Debug\Elysee.Web.dll
 D:\work\source\Elysee\Elysee\Elysee.Web\obj\Debug\Elysee.Web.pdb
-D:\Project\Elysee\Elysee.Web\obj\Debug\Elysee.Web.csprojResolveAssemblyReference.cache
 D:\Project\Elysee\Elysee.Web\bin\Elysee.Web.dll.config

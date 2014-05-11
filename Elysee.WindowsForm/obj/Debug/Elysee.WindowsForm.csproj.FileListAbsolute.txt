@@ -1,7 +1,6 @@
 D:\Project\Elysee\Elysee.WindowsForm\bin\Debug\Elysee.WindowsForm.exe.config
 D:\Project\Elysee\Elysee.WindowsForm\bin\Debug\Elysee.WindowsForm.exe
 D:\Project\Elysee\Elysee.WindowsForm\bin\Debug\Elysee.WindowsForm.pdb
-D:\Project\Elysee\Elysee.WindowsForm\obj\Debug\Elysee.WindowsForm.csprojResolveAssemblyReference.cache
 D:\Project\Elysee\Elysee.WindowsForm\obj\Debug\Elysee.WindowsForm.Properties.Resources.resources
 D:\Project\Elysee\Elysee.WindowsForm\obj\Debug\Elysee.WindowsForm.csproj.GenerateResource.Cache
 D:\Project\Elysee\Elysee.WindowsForm\obj\Debug\Elysee.WindowsForm.exe
@@ -14,3 +13,4 @@ D:\work\source\Elysee\Elysee\Elysee.WindowsForm\obj\Debug\Elysee.WindowsForm.csp
 D:\work\source\Elysee\Elysee\Elysee.WindowsForm\obj\Debug\Elysee.WindowsForm.exe
 D:\work\source\Elysee\Elysee\Elysee.WindowsForm\obj\Debug\Elysee.WindowsForm.pdb
 D:\work\source\Elysee\Elysee\Elysee.WindowsForm\obj\Debug\Elysee.WindowsForm.csprojResolveAssemblyReference.cache
+D:\Project\Elysee\Elysee.WindowsForm\obj\Debug\Elysee.WindowsForm.csprojResolveAssemblyReference.cache
