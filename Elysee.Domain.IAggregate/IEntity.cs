@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Elysee.Domain.IAggregate
 {
-    public class Class1
+    public interface IEntity
     {
+        Guid id { get; set; }
     }
 }
