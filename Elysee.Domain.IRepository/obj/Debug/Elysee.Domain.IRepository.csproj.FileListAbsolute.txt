@@ -2,3 +2,7 @@ D:\Project\Elysee\Elysee.Domain.IRepository\bin\Debug\Elysee.Domain.IRepository.
 D:\Project\Elysee\Elysee.Domain.IRepository\bin\Debug\Elysee.Domain.IRepository.pdb
 D:\Project\Elysee\Elysee.Domain.IRepository\obj\Debug\Elysee.Domain.IRepository.dll
 D:\Project\Elysee\Elysee.Domain.IRepository\obj\Debug\Elysee.Domain.IRepository.pdb
+D:\source\ElyseeMVC\Elysee.Domain.IRepository\bin\Debug\Elysee.Domain.IRepository.dll
+D:\source\ElyseeMVC\Elysee.Domain.IRepository\bin\Debug\Elysee.Domain.IRepository.pdb
+D:\source\ElyseeMVC\Elysee.Domain.IRepository\obj\Debug\Elysee.Domain.IRepository.dll
+D:\source\ElyseeMVC\Elysee.Domain.IRepository\obj\Debug\Elysee.Domain.IRepository.pdb

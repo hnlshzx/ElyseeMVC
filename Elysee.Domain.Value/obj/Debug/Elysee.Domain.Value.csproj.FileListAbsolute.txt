@@ -2,3 +2,7 @@ D:\Project\Elysee\Elysee.Domain.Value\bin\Debug\Elysee.Domain.Value.dll
 D:\Project\Elysee\Elysee.Domain.Value\bin\Debug\Elysee.Domain.Value.pdb
 D:\Project\Elysee\Elysee.Domain.Value\obj\Debug\Elysee.Domain.Value.dll
 D:\Project\Elysee\Elysee.Domain.Value\obj\Debug\Elysee.Domain.Value.pdb
+D:\source\ElyseeMVC\Elysee.Domain.Value\bin\Debug\Elysee.Domain.Value.dll
+D:\source\ElyseeMVC\Elysee.Domain.Value\bin\Debug\Elysee.Domain.Value.pdb
+D:\source\ElyseeMVC\Elysee.Domain.Value\obj\Debug\Elysee.Domain.Value.dll
+D:\source\ElyseeMVC\Elysee.Domain.Value\obj\Debug\Elysee.Domain.Value.pdb

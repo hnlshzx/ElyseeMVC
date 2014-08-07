@@ -2,3 +2,14 @@ D:\Project\Elysee\Elysee.Infrastruture.Entity\bin\Debug\Elysee.Infrastruture.Ent
 D:\Project\Elysee\Elysee.Infrastruture.Entity\bin\Debug\Elysee.Infrastruture.Entity.pdb
 D:\Project\Elysee\Elysee.Infrastruture.Entity\obj\Debug\Elysee.Infrastruture.Entity.dll
 D:\Project\Elysee\Elysee.Infrastruture.Entity\obj\Debug\Elysee.Infrastruture.Entity.pdb
+D:\source\ElyseeMVC\Elysee.Infrastruture.Entity\bin\Debug\Elysee.Infrastruture.Entity.dll.config
+D:\source\ElyseeMVC\Elysee.Infrastruture.Entity\bin\Debug\Elysee.Infrastruture.Entity.dll
+D:\source\ElyseeMVC\Elysee.Infrastruture.Entity\bin\Debug\Elysee.Infrastruture.Entity.pdb
+D:\source\ElyseeMVC\Elysee.Infrastruture.Entity\bin\Debug\EntityFramework.dll
+D:\source\ElyseeMVC\Elysee.Infrastruture.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\source\ElyseeMVC\Elysee.Infrastruture.Entity\bin\Debug\EntityFramework.xml
+D:\source\ElyseeMVC\Elysee.Infrastruture.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\source\ElyseeMVC\Elysee.Infrastruture.Entity\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\source\ElyseeMVC\Elysee.Infrastruture.Entity\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\source\ElyseeMVC\Elysee.Infrastruture.Entity\obj\Debug\Elysee.Infrastruture.Entity.dll
+D:\source\ElyseeMVC\Elysee.Infrastruture.Entity\obj\Debug\Elysee.Infrastruture.Entity.pdb

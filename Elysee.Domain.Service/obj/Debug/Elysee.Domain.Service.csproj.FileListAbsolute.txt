@@ -2,3 +2,7 @@ D:\Project\Elysee\Elysee.Domain.Service\bin\Debug\Elysee.Domain.Service.dll
 D:\Project\Elysee\Elysee.Domain.Service\bin\Debug\Elysee.Domain.Service.pdb
 D:\Project\Elysee\Elysee.Domain.Service\obj\Debug\Elysee.Domain.Service.dll
 D:\Project\Elysee\Elysee.Domain.Service\obj\Debug\Elysee.Domain.Service.pdb
+D:\source\ElyseeMVC\Elysee.Domain.Service\bin\Debug\Elysee.Domain.Service.dll
+D:\source\ElyseeMVC\Elysee.Domain.Service\bin\Debug\Elysee.Domain.Service.pdb
+D:\source\ElyseeMVC\Elysee.Domain.Service\obj\Debug\Elysee.Domain.Service.dll
+D:\source\ElyseeMVC\Elysee.Domain.Service\obj\Debug\Elysee.Domain.Service.pdb

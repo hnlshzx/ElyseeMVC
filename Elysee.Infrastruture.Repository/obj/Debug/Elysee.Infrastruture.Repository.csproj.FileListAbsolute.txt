@@ -2,3 +2,16 @@ D:\Project\Elysee\Elysee.Infrastruture.Repository\bin\Debug\Elysee.Infrastruture
 D:\Project\Elysee\Elysee.Infrastruture.Repository\bin\Debug\Elysee.Infrastruture.Repository.pdb
 D:\Project\Elysee\Elysee.Infrastruture.Repository\obj\Debug\Elysee.Infrastruture.Repository.dll
 D:\Project\Elysee\Elysee.Infrastruture.Repository\obj\Debug\Elysee.Infrastruture.Repository.pdb
+D:\source\ElyseeMVC\Elysee.Infrastruture.Repository\bin\Debug\Elysee.Infrastruture.Repository.dll
+D:\source\ElyseeMVC\Elysee.Infrastruture.Repository\bin\Debug\Elysee.Infrastruture.Repository.pdb
+D:\source\ElyseeMVC\Elysee.Infrastruture.Repository\bin\Debug\Elysee.Infrastruture.Entity.dll
+D:\source\ElyseeMVC\Elysee.Infrastruture.Repository\bin\Debug\EntityFramework.dll
+D:\source\ElyseeMVC\Elysee.Infrastruture.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\source\ElyseeMVC\Elysee.Infrastruture.Repository\bin\Debug\Elysee.Infrastruture.Entity.pdb
+D:\source\ElyseeMVC\Elysee.Infrastruture.Repository\bin\Debug\EntityFramework.xml
+D:\source\ElyseeMVC\Elysee.Infrastruture.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\source\ElyseeMVC\Elysee.Infrastruture.Repository\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\source\ElyseeMVC\Elysee.Infrastruture.Repository\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\source\ElyseeMVC\Elysee.Infrastruture.Repository\obj\Debug\Elysee.Infrastruture.Repository.csprojResolveAssemblyReference.cache
+D:\source\ElyseeMVC\Elysee.Infrastruture.Repository\obj\Debug\Elysee.Infrastruture.Repository.dll
+D:\source\ElyseeMVC\Elysee.Infrastruture.Repository\obj\Debug\Elysee.Infrastruture.Repository.pdb

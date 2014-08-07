@@ -2,3 +2,7 @@ D:\Project\Elysee\Elysee.Infrastruture.Common\bin\Debug\Elysee.Infrastruture.Com
 D:\Project\Elysee\Elysee.Infrastruture.Common\bin\Debug\Elysee.Infrastruture.Common.pdb
 D:\Project\Elysee\Elysee.Infrastruture.Common\obj\Debug\Elysee.Infrastruture.Common.dll
 D:\Project\Elysee\Elysee.Infrastruture.Common\obj\Debug\Elysee.Infrastruture.Common.pdb
+D:\source\ElyseeMVC\Elysee.Infrastruture.Common\bin\Debug\Elysee.Infrastruture.Common.dll
+D:\source\ElyseeMVC\Elysee.Infrastruture.Common\bin\Debug\Elysee.Infrastruture.Common.pdb
+D:\source\ElyseeMVC\Elysee.Infrastruture.Common\obj\Debug\Elysee.Infrastruture.Common.dll
+D:\source\ElyseeMVC\Elysee.Infrastruture.Common\obj\Debug\Elysee.Infrastruture.Common.pdb

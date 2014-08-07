@@ -2,3 +2,7 @@ D:\Project\Elysee\Elysee.Domain.IAggregate\bin\Debug\Elysee.Domain.IAggregate.dl
 D:\Project\Elysee\Elysee.Domain.IAggregate\bin\Debug\Elysee.Domain.IAggregate.pdb
 D:\Project\Elysee\Elysee.Domain.IAggregate\obj\Debug\Elysee.Domain.IAggregate.dll
 D:\Project\Elysee\Elysee.Domain.IAggregate\obj\Debug\Elysee.Domain.IAggregate.pdb
+D:\source\ElyseeMVC\Elysee.Domain.IAggregate\obj\Debug\Elysee.Domain.IAggregate.dll
+D:\source\ElyseeMVC\Elysee.Domain.IAggregate\obj\Debug\Elysee.Domain.IAggregate.pdb
+D:\source\ElyseeMVC\Elysee.Domain.IAggregate\bin\Debug\Elysee.Domain.IAggregate.dll
+D:\source\ElyseeMVC\Elysee.Domain.IAggregate\bin\Debug\Elysee.Domain.IAggregate.pdb

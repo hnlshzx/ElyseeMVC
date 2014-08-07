@@ -2,3 +2,7 @@ D:\Project\Elysee\Elysee.Appliction.Assembler\bin\Debug\Elysee.Appliction.Assemb
 D:\Project\Elysee\Elysee.Appliction.Assembler\bin\Debug\Elysee.Appliction.Assembler.pdb
 D:\Project\Elysee\Elysee.Appliction.Assembler\obj\Debug\Elysee.Appliction.Assembler.dll
 D:\Project\Elysee\Elysee.Appliction.Assembler\obj\Debug\Elysee.Appliction.Assembler.pdb
+D:\source\ElyseeMVC\Elysee.Appliction.Assembler\bin\Debug\Elysee.Appliction.Assembler.dll
+D:\source\ElyseeMVC\Elysee.Appliction.Assembler\bin\Debug\Elysee.Appliction.Assembler.pdb
+D:\source\ElyseeMVC\Elysee.Appliction.Assembler\obj\Debug\Elysee.Appliction.Assembler.dll
+D:\source\ElyseeMVC\Elysee.Appliction.Assembler\obj\Debug\Elysee.Appliction.Assembler.pdb
