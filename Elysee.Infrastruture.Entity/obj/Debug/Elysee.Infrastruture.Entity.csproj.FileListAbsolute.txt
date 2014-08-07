@@ -13,3 +13,4 @@ D:\source\ElyseeMVC\Elysee.Infrastruture.Entity\bin\Debug\zh-Hans\EntityFramewor
 D:\source\ElyseeMVC\Elysee.Infrastruture.Entity\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
 D:\source\ElyseeMVC\Elysee.Infrastruture.Entity\obj\Debug\Elysee.Infrastruture.Entity.dll
 D:\source\ElyseeMVC\Elysee.Infrastruture.Entity\obj\Debug\Elysee.Infrastruture.Entity.pdb
+D:\source\ElyseeMVC\Elysee.Infrastruture.Entity\obj\Debug\Elysee.Infrastruture.Entity.csprojResolveAssemblyReference.cache
